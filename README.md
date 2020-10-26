@@ -1,7 +1,7 @@
 # Hibernate OMR Librery
 
 * [Model](https://github.com/JuanTexenen23/LibreryORM/tree/main/src/model/BooksEntity.java) - model
-* [Controller](https://github.com/JuanTexenen23/LibreryORM/tree/main/src/controlado/controladorLibro.javar) - controller
+* [Controller](https://github.com/JuanTexenen23/LibreryORM/tree/main/src/controlado/controlador/Libro.javar) - controller
 * [Main](https://github.com/JuanTexenen23/LibreryORM/blob/main/src/Main.java) - Main
 
 ### Prerequisites
